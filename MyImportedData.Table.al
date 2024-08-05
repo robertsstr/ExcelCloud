@@ -3,7 +3,7 @@ table 50100 "My Imported Data"
     DataClassification = CustomerContent;
 
     fields
-    {
+    { 
         field(1; "Entry No."; Integer)
         {
             DataClassification = CustomerContent;
